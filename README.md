@@ -14,5 +14,3 @@ Currently in univerisity studying computer science, learning cyber security, 20 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DiogoLepri&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
