@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently in univerisity studying computer science, learning cyber security, 20 years old.
+Currently in univerisity studying computer science, learning cyber security and machine learning, 21 years old.
 
 
 ## 🌐 Socials:
@@ -12,5 +12,4 @@ Currently in univerisity studying computer science, learning cyber security, 20 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DiogoLepri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoLepri&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=DiogoLepri&icon=6&color=0)](https://visitcount.itsvg.in)
+
